@@ -10,9 +10,12 @@ W. Avy suggested to dive deeper and analyze temperature trends from the mid and 
 Using Python, Pandas functions, and SQLAlchemy, we filtered the data to reflect all of the temperatures for the months of just only June and December for 2010 to 2017. Utilizing these tools, we obtained the following summary statistic for each month. There are a key differences to highlight when comparing both months of the 7- year time frame. 
 
 **June Statistical Summary**
+
 ![june](Resources/june_temps.png)
 
+
 **December Statistical Summary**
+
 ![dec](Resources/december_temps.png)
 
 1. Both average temperatures for both months are relative close to one another as they each display an average around the low 70s. While December has an average temperature of 71 degrees, it proves that in the winter month Oahu can have warm weather and arguable has comfortable climate for surfing and ice cream service. 
