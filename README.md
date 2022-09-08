@@ -5,6 +5,18 @@ We are interested in opening a surf shop in Oahu and have turned to our friend, 
 
 W. Avy suggested to dive deeper and analyze temperature trends from the mid and end-year months to get a sense if the surf and ice cream shop can be sustainable year-round. Ultimately, this analysis should help to greater prove that if both months reflect favorable temperatures, that would further the argument to make Oahu the ideal first location for the business launch. 
 
+## Tech Used:
+- SQLite
+- SQLAlchemy
+- Flask
+- Python
+- Jupyter Notebook
+
+## Objectives:
+- Use SQLAlchemy to connect to and query a SQLite database.
+- Use statistics like minimum, maximum, and average to analyze data.
+- Design a Flask application using data.
+
 ## Results
 
 Using Python, Pandas functions, and SQLAlchemy, we filtered the data to reflect all of the temperatures for the months of just only June and December for 2010 to 2017. Utilizing these tools, we obtained the following summary statistic for each month. There are a key differences to highlight when comparing both months of the 7- year time frame. 
